@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "antd": "^5.12.5",
+    "react-icons": "^4.12.0"
+  }
+}
